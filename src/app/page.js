@@ -163,7 +163,7 @@ export default function Home() {
                     <div className="w-10 h-10 bg-teal-50 rounded-full flex items-center justify-center text-teal-600 shrink-0"><FaWhatsapp /></div>
                     <div>
                         <h4 className="font-bold text-slate-900">WhatsApp</h4>
-                        <p className="text-sm text-slate-500">+91 98765 43210</p>
+                        <p className="text-sm text-slate-500">+91 6282429338</p>
                     </div>
                 </div>
             </div>
